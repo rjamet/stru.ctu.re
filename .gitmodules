@@ -1,0 +1,6 @@
+[submodule "img"]
+	path = img
+	url = https://github.com/vinc/infra.stru.ctu.re
+[submodule "web"]
+	path = web
+	url = https://github.com/vinc/pi.ctu.re
